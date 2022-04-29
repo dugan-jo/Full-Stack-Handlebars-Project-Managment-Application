@@ -15,6 +15,7 @@ This project taught us that everyone has daily routines that need to be organize
 ## Installation
 
 To run the Project Management App a user needs to simply sign up for an account.
+http://hidden-forest-18193.herokuapp.com/
 
 ## Usage
 
@@ -26,8 +27,6 @@ Nick Graves, Joseph Dugan, Amit Singhal, Marissa Fandel,
 
 ## Questions
 
-
-http://hidden-forest-18193.herokuapp.com/
 Contact us:
 
 <a class="hoverable" href="https://github.com/Asinghal81" target="_blank"> Amit Singhal</a> |
