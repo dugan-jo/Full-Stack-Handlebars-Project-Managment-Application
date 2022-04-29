@@ -1,6 +1,6 @@
 # PROJECT HUB
 
-# A project Management/Pay App
+# A Full Stack Project Management/Pay Application
 
 ## Description
 
